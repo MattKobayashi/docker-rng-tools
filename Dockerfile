@@ -8,4 +8,4 @@ RUN apk --no-cache upgrade && \
 ENTRYPOINT ["rngd"]
 CMD ["-f"]
 
-LABEL maintainer="matthew@kobayashi.com.au"
+LABEL maintainer="matthew@kobayashi.au"
